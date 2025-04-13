@@ -1,7 +1,7 @@
 # WinForms Components Library
 
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.x-blue)
-![License](https://img.shields.io/github/license/MaykeSN/seu-repositorio)
+![License](https://img.shields.io/github/license/MaykeSN/win-components)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Status](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
 
