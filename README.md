@@ -26,4 +26,4 @@
 Clone o repositório e adicione o projeto à sua solução:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MaykeSN/win-components.git
